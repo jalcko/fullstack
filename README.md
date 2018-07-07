@@ -24,9 +24,3 @@ El siguiente es el contenido del curso:
   * Introducción HTML
   * Anatomía HTML
   * Estructura HTML
-- HTML + CSS
-  * Introducción CSS
-  * Inline Styles
-  * selectores
-  * .css files
-  * Elementos anidados
