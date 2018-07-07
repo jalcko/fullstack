@@ -13,6 +13,8 @@ El siguiente es el contenido del curso:
     - Niveles de fidelidad de un prototipo.
     - Wireframes en Papel.
     - Wireframes en Digital.
+    
+![Texto alternativo](/ruta/a/la/imagen.jpg)
   
 **Clase 2**
 - Diseño Modular
