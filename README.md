@@ -32,6 +32,7 @@ El siguiente es el contenido del curso:
     - Elementos anidados
 
 **Clase 4**
+- 
     - Box model
     - Colores, Tipografía
     - CSS Grids
