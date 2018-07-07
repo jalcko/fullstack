@@ -14,7 +14,7 @@ El siguiente es el contenido del curso:
     - Wireframes en Papel.
     - Wireframes en Digital.
 
-![IMAGE]('Screenshot-2018-6-15 Project 1.png' "Sketch")
+![IMAGE](Screenshot-2018-6-15_Project_1.png' "Sketch")
   
 **Clase 2**
 - Diseño Modular
