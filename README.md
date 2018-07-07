@@ -20,5 +20,5 @@ El siguiente es el contenido del curso:
 - Prototipo interactivo
  
  **Clase 3**
- HTML
- - * Introducción HTML
+-  HTML
+* Introducción HTML
