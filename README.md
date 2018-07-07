@@ -20,5 +20,26 @@ El siguiente es el contenido del curso:
 - Prototipo interactivo
  
  **Clase 3**
--  HTML
-* Introducción HTML
+- HTML
+ * Introducción HTML
+ * Anatomía HTML
+ * Estructura HTML
+- HTML + CSS
+ * Introducción CSS
+ * Inline Styles
+ * selectores
+ * .css files
+ * Elementos anidados
+
+**Clase 4**
+ * Box model
+ * Colores, Tipografía
+ * CSS Grids
+ * Diseño adaptativo
+
+**Clase 5**
+- Diseño de proyecto
+ * Presentación de Retos
+ * Buscando Soluciones
+ * Creatividad y teoría de pensamiento lateral
+ * MVP
