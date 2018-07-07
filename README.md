@@ -21,6 +21,3 @@ El siguiente es el contenido del curso:
  
  **Clase 3**
  - HTML
-  * Introducción HTML
-  * Anatomía HTML
-  * Estructura HTML
